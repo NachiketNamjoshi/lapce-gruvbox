@@ -2,6 +2,6 @@ name = "gruvbox"
 display-name = "Gruvbox"
 description = "The Iconic Gruvbox Theme"
 version = "0.1.0"
-author = "Nachiket Namjoshi"
+author = "NachiketNamjoshi"
 repository = "https://github.com/NachiketNamjoshi/lapce-gruvbox"
 themes = ["gruvbox-dark.toml"]
