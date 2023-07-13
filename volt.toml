@@ -5,4 +5,4 @@ display-name = "Gruvbox"
 description = "The Iconic Gruvbox Theme"
 icon = "gruvbox.png"
 repository = "https://github.com/NachiketNamjoshi/lapce-gruvbox"
-color-themes = ["gruvbox-dark.toml"]
+color-themes = ["gruvbox-dark.toml", "gruvbox-light.toml"]
